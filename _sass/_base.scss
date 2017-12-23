@@ -64,3 +64,32 @@ img {
 td {
   vertical-align: top;
 }
+
+.icon > svg {
+  width: 16px;
+  height: 16px;
+  vertical-align: middle;
+}
+
+.username {
+  color: #4a9ae1;
+  text-decoration: none;
+  vertical-align: middle;
+}
+
+.made-with-jekyll {
+  font-size: 10px;
+}
+
+.disclaimer-note {
+  display: block;
+}
+
+.year-name-foot-note {
+  display: block;
+}
+
+hr {
+  color: $grey-2;
+  opacity: 0.3;
+}

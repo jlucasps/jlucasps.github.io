@@ -24,8 +24,8 @@ My college backgroud is:
 	- Featured Performance on Academic and Scientific Fields, by Sydle Systems.
 
 
-I'm deeply interested on **Microservices Architectures**, **API Platforms**, **Agile Software Development** and **DevOps culture**.
+I'm interested on **Microservices Architectures**, **API Platforms**, **Agile Software Development** and **DevOps culture**.
 
 You can find more details about my past experiences at [my LinkedIn profile](https://www.linkedin.com/in/jlucasps/).
 
-I usually share some tech related resources on [my twitter profile](https://twitter.com/jlucasps). Feel free to follow me.
+I usually share some tech related resources on [my twitter](https://twitter.com/jlucasps). Feel free to follow me there.
