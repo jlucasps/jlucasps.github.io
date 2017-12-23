@@ -1,15 +1,31 @@
 ---
 layout: post
 title: "About"
-author: "Chester"
+author: "João Lucas"
 permalink: /about/
 ---
 
-A friend of mine writes short stories. One sunny day, I asked if he wanted a website to showcase his works and he agreed. I decided to use GitHub Pages to host his site. That way he wouldn't have to buy a domain and a server.
+Hi, I'm João Lucas.
 
-While doing some research up on GitHub Pages, I accidentally chanced upon this _simple, blog-aware, static site generator_ called [Jekyll](https://jekyllrb.com/) which works really well with GitHub Pages. I figured it would do just fine for my friend and I set about searching for a pretty theme. I wanted a theme with a _book-ish_ vibe. Unfortunately, most of the themes were too modern. Eventually, I caved and begun working on my own theme. With the help of [Poole](https://github.com/poole/poole), the Jekyll Butler, I was able to build **Tale**.
+I'm a Software Development Consultant at [ThoughtWorks](https://www.thoughtworks.com/). Currently working in the **Santiago de Chile** office.
 
-## Contribute
-Feel free to create an issue or make a pull request on [GitHub](https://github.com/chesterhow/tale).
+My past experiences were:
+- UI Developer at [Avenue Code](https://www.avenuecode.com/) / Fortune 500 Clients;
+- Ruby on Rails Instructor at [Framework System](http://www.frameworksystem.com/);
+- Co-creator of pichooser.com;
+- Ruby Developer and co-founder at [Synapses Group](http://www.synapses.com.br/);
+- Java Developer at [SYDLE](https://www.sydle.com).
 
-Thanks for reading!
+My college backgroud is:
+- Computer Science at Federal University of Lavras ([UFLA](http://www.ufla.br/)).
+- Awards:
+	- Academic Merit, by Brazilian Education Ministry;
+	- Featured Completion of Graduation Course, by Brazilian Computer Society;
+	- Featured Performance on Academic and Scientific Fields, by Sydle Systems.
+
+
+I'm deeply interested on **Microservices Architectures**, **API Platforms**, **Agile Software Development** and **DevOps culture**.
+
+You can find more details about my past experiences at [my LinkedIn profile](https://www.linkedin.com/in/jlucasps/).
+
+I usually share some tech related resources on [my twitter profile](https://twitter.com/jlucasps). Feel free to follow me.
