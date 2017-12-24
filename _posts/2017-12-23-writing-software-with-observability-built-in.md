@@ -1,5 +1,6 @@
 ---
 layout: post
+comments: true
 title: "Writing software with observability built-in"
 author: "João Lucas"
 ---
