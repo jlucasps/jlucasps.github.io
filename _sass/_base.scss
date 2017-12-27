@@ -66,16 +66,25 @@ td {
 }
 
 .icon > svg {
-  width: 25px;
-  height: 25px;
+  width: 15px;
+  height: 15px;
   vertical-align: middle;
+
+  @media (min-width: 600px) {
+    width: 25px;
+    height: 25px;
+  }
 }
 
 .username {
   color: #4a9ae1;
   text-decoration: none;
   vertical-align: middle;
-  font-size: 1rem;
+  font-size: 0.75rem;
+
+  @media (min-width: 600px) {
+    font-size: 1rem;
+  }
 }
 
 .made-with-jekyll {

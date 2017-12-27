@@ -7,9 +7,11 @@ permalink: /about/
 
 Hi, I'm João Lucas.
 
-I'm a Software Development Consultant at [ThoughtWorks](https://www.thoughtworks.com/). Currently working in the **Santiago de Chile** office.
+I'm interested on **Microservices Architectures**, **API Platforms**, **Agile Software Development** and **DevOps culture**.
 
-My past experiences were:
+I work for [ThoughtWorks](https://www.thoughtworks.com/) as a **Software Development Consultant**, currently in the **Santiago de Chile** office (after working at Porto Alegre and Belo Horizonte, both Brazil offices).
+
+My past experiences are:
 - UI Developer at [Avenue Code](https://www.avenuecode.com/) / Fortune 500 Clients;
 - Ruby on Rails Instructor at [Framework System](http://www.frameworksystem.com/);
 - Co-creator of pichooser.com;
@@ -23,8 +25,6 @@ My college backgroud is:
 	- Featured Completion of Graduation Course, by Brazilian Computer Society;
 	- Featured Performance on Academic and Scientific Fields, by Sydle Systems.
 
-
-I'm interested on **Microservices Architectures**, **API Platforms**, **Agile Software Development** and **DevOps culture**.
 
 You can find more details about my past experiences at [my LinkedIn profile](https://www.linkedin.com/in/jlucasps/).
 
