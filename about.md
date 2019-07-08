@@ -7,7 +7,7 @@ permalink: /about/
 
 Hi, I'm João Lucas.
 
-I'm interested on **Microservices Architectures**, **API Platforms**, **Agile Software Development** and **DevOps culture**.
+I'm interested in **Microservices Architectures**, **API Platforms**, **Agile Software Development**, **DevOps culture**, and how these components connect with Digital transformations.
 
 I work for [ThoughtWorks](https://www.thoughtworks.com/) as a **Software Development Consultant**, currently in the **Santiago de Chile** office (after working at Porto Alegre and Belo Horizonte, both Brazil offices).
 
@@ -18,7 +18,7 @@ My past experiences are:
 - Ruby Developer and co-founder at [Synapses Group](http://www.synapses.com.br/);
 - Java Developer at [SYDLE](https://www.sydle.com).
 
-My college backgroud is:
+My college background is:
 - Computer Science at Federal University of Lavras ([UFLA](http://www.ufla.br/)).
 - Awards:
 	- Academic Merit, by Brazilian Education Ministry;
@@ -28,4 +28,4 @@ My college backgroud is:
 
 You can find more details about my past experiences at [my LinkedIn profile](https://www.linkedin.com/in/jlucasps/).
 
-I usually share some tech related resources on [my twitter](https://twitter.com/jlucasps). Feel free to follow me there.
+I usually share some social- and tech-related resources on [my twitter](https://twitter.com/jlucasps). Feel free to follow me there.
