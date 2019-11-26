@@ -7,7 +7,7 @@ permalink: /about/
 
 Hi, I'm João Lucas.
 
-I'm interested in **Microservices Architectures**, **API Platforms**, **Agile Software Development**, **DevOps culture**, and how these components connect with Digital transformations.
+I'm interested in **Microservices Architectures**, **API Platforms**, **Agile Software Development**, **DevOps culture**, and how these components connect with **Digital Transformations**.
 
 I work for [ThoughtWorks](https://www.thoughtworks.com/) as a **Software Development Consultant**, currently in the **Santiago de Chile** office (after working at Porto Alegre and Belo Horizonte, both Brazil offices).
 
